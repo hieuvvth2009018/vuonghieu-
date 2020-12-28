@@ -15,7 +15,16 @@ app.get('/home', (req, res) => {
     res.render('hello')
 });
 
+app.get('/list-product', (req, res) => {
+    res.render('list-product')
+});
 
+app.get('/product-detail', (req, res) => {
+    res.render('product-detail')
+});
+app.get('/cart.ejs', (req, res) => {
+    res.render('cart.ejs')
+});
 
 app.listen(port, function(){
     console.log('Example app listening on port ' + port);
