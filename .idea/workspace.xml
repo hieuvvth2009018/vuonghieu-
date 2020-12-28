@@ -25,17 +25,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8dbb72d-cc9f-4dcf-8a35-5ea1381135f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/product.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hello-ejs/css/detail.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hello-ejs/css/product.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node-js-getting-started/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/cart.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/list-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/product-detail.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-ejs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-ejs/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-ejs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-ejs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs/app.js" afterDir="false" />
@@ -2143,11 +2137,8 @@
       <change beforePath="$PROJECT_DIR$/hello-ejs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-ejs/views/hello.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-ejs/views/hello.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homePage/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node-js-getting-started" beforeDir="false" afterPath="$PROJECT_DIR$/node-js-getting-started" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/hello.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/hello.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2155,7 +2146,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/node-js-getting-started" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1m3329XLjI8XP4nbBwWOX5Bjvj2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -2198,7 +2189,7 @@
       <workItem from="1608722381799" duration="755000" />
       <workItem from="1608872044648" duration="2452000" />
       <workItem from="1608880476960" duration="33000" />
-      <workItem from="1608880548810" duration="27781000" />
+      <workItem from="1608880548810" duration="29137000" />
     </task>
     <servers />
   </component>
